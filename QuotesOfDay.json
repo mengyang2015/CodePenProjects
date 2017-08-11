@@ -1,13 +1,35 @@
 [{
-		"person": "Steve Jobs",
+		"author": "Steve Jobs",
 		"quote": "Innovation distinguishes bewteen a leader and a follower."
 	},
 	{
-		"person": "Steve Jobs",
+		"author": "Steve Jobs",
 		"quote": "Sometimes life hits you in the head with a brick. Don't lose faith!"
 	},
+ 	{
+		"author": "Steve Jobs",
+		"quote": "My favorite things in life don’t cost any money. It’s really clear that the most precious resource we all have is time."
+	},
+ 	{
+		"author": "Steve Jobs",
+		"quote": "I’m as proud of many of the things we haven’t done as the things we have done. Innovation is saying no to a thousand things."
+	},
+ 
+ 	{
+		"author": "Steve Jobs",
+		"quote": "Have the courage to follow your heart and intuition. They somehow know what you truly want to become."
+	},
+ 	{
+		"author": "Steve Jobs",
+		"quote": "Sometimes when you innovate, you make mistakes. It is best to admit them quickly, and get on with improving your other innovations."
+	},
+ 	{
+		"author": "Steve Jobs",
+		"quote": "Quality is more important than quantity. One home run is much better than two doubles."
+	},
+ 
 	{
-		"person": "Steve Jobs",
+		"author": "Steve Jobs",
 		"quote": "Stay hungry, stay foolish!"
 	}
 ]
